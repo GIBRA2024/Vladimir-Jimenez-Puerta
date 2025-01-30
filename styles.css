@@ -9,6 +9,9 @@ body {
 }
 
 .container {
+    background-image: url('Imagenes/');
+    background-size: cover;
+    background-position: center;
     background-color: white;
     border-radius: 10px;
     padding: 20px;
