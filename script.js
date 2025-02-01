@@ -21,6 +21,7 @@ function descargarContacto1() {
 VERSION:3.0
 FN:Jimenez Puerta Abogados
 TEL: +57 3187324455
+NOTE: facturacion@jimenezpuerta.com
 END:VCARD`;
 
     const blob = new Blob([vcardData], { type: 'text/vcard' });
