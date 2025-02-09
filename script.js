@@ -3,6 +3,7 @@ function descargarContacto() {
 VERSION:3.0
 FN:Vladimir Jimenez Puerta
 TEL: +57 3153155112
+EMAIL:vjp@jimenezpuerta.com
 NOTE: Socio Fundador
 END:VCARD`;
 
